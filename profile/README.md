@@ -24,6 +24,8 @@ This organization includes simple tools of [IPOL Journal · Image Processing On 
 ![GitHub repo size](https://img.shields.io/github/repo-size/IPOL-Fork/ipol-tools)
 ![GitHub all releases](https://img.shields.io/github/downloads/IPOL-Fork/ipol-tools/total)
 ![GitHub](https://img.shields.io/github/license/IPOL-Fork/ipol-tools)
+* [ipol_bsde](https://github.com/IPOL-Fork/ipol_bsde):
+![GitHub repo size](https://img.shields.io/github/repo-size/IPOL-Fork/ipol_bsde)
 * [jpeg-god](https://github.com/IPOL-Fork/jpeg-god):
 ![GitHub repo size](https://img.shields.io/github/repo-size/IPOL-Fork/jpeg-god)
 ![GitHub](https://img.shields.io/github/license/IPOL-Fork/jpeg-god)
@@ -41,5 +43,8 @@ This organization includes simple tools of [IPOL Journal · Image Processing On 
 ![GitHub repo size](https://img.shields.io/github/repo-size/IPOL-Fork/libipoliio)
 ![GitHub all releases](https://img.shields.io/github/downloads/IPOL-Fork/libipoliio/total)
 ![GitHub](https://img.shields.io/github/license/IPOL-Fork/libipoliio)
+* [ponomarenko-ne](https://github.com/IPOL-Fork/ponomarenko-ne):
+![GitHub repo size](https://img.shields.io/github/repo-size/IPOL-Fork/ponomarenko-ne)
+![GitHub](https://img.shields.io/github/license/IPOL-Fork/ponomarenko-ne)
 * [retinex_pde](https://github.com/IPOL-Fork/retinex_pde):
 ![GitHub repo size](https://img.shields.io/github/repo-size/IPOL-Fork/retinex_pde)
