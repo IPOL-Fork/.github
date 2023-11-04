@@ -2,8 +2,8 @@
 
 This organization includes simple tools of [IPOL Journal · Image Processing On Line](www.ipol.im).
 
-| ![stat](https://github-readme-stats.vercel.app/api?username=zvezdochiot&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&hide_border=true&show_icons=true&icon_color=BDC5CD) | ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=zvezdochiot&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&hide_border=true&langs_count=3) |
-| --- | --- |
+| ![stat](https://github-readme-stats.vercel.app/api?username=zvezdochiot&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&hide_border=true&show_icons=true&icon_color=BDC5CD) | ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=zvezdochiot&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&hide_border=true&langs_count=3) | ![stat](https://github-readme-stats.vercel.app/api?username=plzombie&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&hide_border=true&show_icons=true&icon_color=BDC5CD) | ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=plzombie&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&hide_border=true&langs_count=3) |
+| --- | --- | --- | --- |
 
 ### Content:
 
@@ -26,6 +26,7 @@ This organization includes simple tools of [IPOL Journal · Image Processing On 
 ![GitHub](https://img.shields.io/github/license/IPOL-Fork/ipol-tools)
 * [ipol_bsde](https://github.com/IPOL-Fork/ipol_bsde):
 ![GitHub repo size](https://img.shields.io/github/repo-size/IPOL-Fork/ipol_bsde)
+![GitHub](https://img.shields.io/github/license/IPOL-Fork/ipol_bsde)
 * [jpeg-god](https://github.com/IPOL-Fork/jpeg-god):
 ![GitHub repo size](https://img.shields.io/github/repo-size/IPOL-Fork/jpeg-god)
 ![GitHub](https://img.shields.io/github/license/IPOL-Fork/jpeg-god)
